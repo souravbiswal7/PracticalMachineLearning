@@ -1,7 +1,7 @@
 ---
 title: "Predictions using the Weight Lifting Exercises Dataset"
-author: "Tom Lous"
-date: "17 May 2016"
+author: "Sourav Biswal"
+date: "6 Nov 2020"
 output: 
   html_document:
     keep_md: yes
